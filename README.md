@@ -5,5 +5,5 @@ A serverless application project in IS5003 Platform Design & Economy - *by Team 
 ### Steps for deployment
 1. Download ```lambda_function.py```
 2. Navigate to AWS [Lambda](https://ap-southeast-1.console.aws.amazon.com/lambda/home?region=ap-southeast-1#/functions)
-3. 
+3. Create a new serverless function. Choose Python 3.7 runtime. 
 4. Navigate to the API endpoint of the AWS Lambda function to view the changes.
