@@ -10,3 +10,10 @@ A serverless application project in IS5003 Platform Design & Economy - *by Team 
 5. You may also give the handler a name such as ```lambda_function.lambda_handler```.
 6. Add a trigger. Select **API Gateway**.
 7. Navigate to the API endpoint of the AWS Lambda function to view the changes.
+
+
+### Authors
+- [arveev](https://github.com/arveev)
+- [excitedlybored](https://github.com/excitedlybored)
+- [horensen](https://github.com/horensen)
+- [wilsonwordsofwisdom](https://github.com/wilsonwordsofwisdom)
