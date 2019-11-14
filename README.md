@@ -9,7 +9,6 @@ A serverless application project in IS5003 Platform Design & Economy - *by Team 
  - **Backend:** Python 3.6 binaries and libraries running on AWS Lambda
  - **Others:** [Dialogflow](https://cloud.google.com/dialogflow/docs/) - The chatbot (known as Professor Botler) is developed using Dialogflow, a conversational NLP platform
 
-This application uses the Vuetify.js framework
 ### Requirements
 1. AWS Account - to host and run the serverless application on Lambda
 2. Because the entire application is based on a Single HTML file deployment, that is everything you need!
