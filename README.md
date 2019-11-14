@@ -7,7 +7,7 @@ A serverless application project in IS5003 Platform Design & Economy - *by Team 
 
  - **Frontend:** [Vuetify.js](https://vuetifyjs.com/en/getting-started/quick-start) - A simple and clean framework for Vue.js that is based on Google's Material Design language
  - **Backend:** Python 3.6 binaries and libraries running on AWS Lambda
- - **Others:** [Dialogflow](https://cloud.google.com/dialogflow/docs/) - The chatbot (known as Professor Botler) is developed using Dialogflow, a natural language understanding platform
+ - **Others:** [Dialogflow](https://cloud.google.com/dialogflow/docs/) - The chatbot (known as Professor Botler) is developed using Dialogflow, a conversational NLP platform
 
 This application uses the Vuetify.js framework
 ### Requirements
